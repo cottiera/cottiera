@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there! I'm Alastair. 👋
 
-<!--
-**cottiera/cottiera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 💡
+I'm a passionate and skilled software developer with a strong commitment to creating elegant and efficient solutions. My journey in the world of programming began in 2nd year engineering when I abandoned my plans of being a Mechanical Engineer and chose Computer Engineering Instead! I am now in my 3rd year looking forward to rewarding upper year and co-op experiences. With a solid foundation in C++, Python, and JavaScript 💻, I'm always excited to take on new challenges and learn something new every day.
 
-Here are some ideas to get you started:
+## My Strengths 🚀
+- **Problem Solver:** I thrive on dissecting complex problems and transforming them into manageable tasks. Finding innovative and effective solutions is my forte. 🧠
+- **Collaborative:** I believe in the power of teamwork and open communication. I enjoy working in collaborative environments where ideas flow freely. 🤝
+- **Attention to Detail:** My keen eye for detail ensures that my code is not only functional but also clean, maintainable, and adheres to industry best practices. 🔍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What Sets Me Apart ✨
+- Flexibility! As a young developer I can thrive in new environments and I am always grateful for a challenge.
+- Leadership! I have always been passionate about leadership; sometimes the best way to lead... is to follow.
+- Learning! Wether it's in the classroom or embracing a new co-op position, I am always striving to learn and progress.
+
+## Let's Connect 📬
+I'm enthusiastic about contributing my skills to a team that shares my passion for excellence. If you're looking for a motivated developer who can deliver top-notch solutions, let's connect!
+
+[LinkedIn](www.linkedin.com/in/alastair-cottier) | [Email](cottier@ualberta.ca) | [Phone: (403) 971-3669]
