@@ -16,4 +16,4 @@ I'm a passionate and skilled software developer with a strong commitment to crea
 ## Let's Connect 📬
 I'm enthusiastic about contributing my skills to a team that shares my passion for excellence. If you're looking for a motivated developer, let's connect!
 
-[LinkedIn](www.linkedin.com/in/alastair-cottier) | [Email](cottier@ualberta.ca) | [Phone: (403) 971-3669]
+[LinkedIn](https://www.linkedin.com/in/alastair-cottier) | [Email](cottier@ualberta.ca) | [Phone: (403) 971-3669]
