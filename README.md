@@ -1,7 +1,7 @@
 # Hi there! I'm Alastair. 👋
 
 ## About Me 💡
-I'm a passionate and skilled software developer with a strong commitment to creating elegant and efficient solutions. My journey in the world of programming began in 1st year engineering when I abandoned my plans of being a Mechanical Engineer and chose to follow my newfound passion of Computer Engineering Instead! I am now in my 3rd year looking forward to rewarding upper year academic and co-op experiences. With a solid foundation in Java, Python, and JavaScript 💻, I'm always excited to take on new challenges and learn something new every day.
+I'm a passionate and skilled software developer with a strong commitment to creating elegant and efficient solutions. My journey in the world of programming began in 1st year engineering when I abandoned my plans of being a Mechanical Engineer and chose to follow my newfound passion of Computer Engineering Instead! I am now in my 3rd year looking forward to rewarding upper year academic and co-op experiences. With a solid foundation in web development and computing principles 💻, I'm always excited to take on new challenges and learn something new every day.
 
 ## My Strengths 🚀
 - **Problem Solver:** I thrive on dissecting complex problems and transforming them into manageable tasks. Finding innovative and effective solutions is my forte. 🧠
